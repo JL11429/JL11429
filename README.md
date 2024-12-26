@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>JAVA</b>
-  - [Precision CNC Panel Saw](https://github.com/JL11429/Algorithms-Practice)
+  - [Precision CNC Panel Saw](https://github.com/JL11429/Precision-CNC-Panel-Saw/tree/main)
 - <b>Python</b>
   - [Checkers Game](https://github.com/JL11429/Package-Delivery-Pathfinding-Algorithm)
 
