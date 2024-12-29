@@ -11,5 +11,5 @@
 - <b>Python</b>
   - [Checkers Game](https://github.com/JL11429/Checkers-Game)
 - <b>C++</b>
-  - [Synonym Dictionary (in-progress)](https://github.com/JL11429/Synonym-Dictionary__in-progress)
+  - [Synonym Dictionary](https://github.com/JL11429/Synonym-Dictionary)
 
